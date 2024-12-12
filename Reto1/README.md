@@ -1,4 +1,4 @@
-# Reto 1 - PrepareGifts (Fácil)
+# Reto 1 - ¡Primer regalo repetido! (Fácil)
 
 ## Instrucciones
 

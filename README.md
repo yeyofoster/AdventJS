@@ -55,4 +55,5 @@
 - Crear un hábito diario de resolver problemas, lo que refuerza tus habilidades.
 
 ## Retos
-1. [Reto 1 - PrepareGifts](Reto1/ "Reto 1 - PrepareGifts")
+1. [Reto 1 - ¡Primer regalo repetido!](Reto1/ "Reto 1 - ¡Primer regalo repetido!")
+1. [Reto 2 - Framing names](Reto2/ "Reto 2 - Framing names")

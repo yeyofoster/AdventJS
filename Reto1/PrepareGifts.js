@@ -1,6 +1,6 @@
 /**
  * AdventJS 
- * Reto 1 - PrepareGifts
+ * Reto 1 - ¡Primer regalo repetido!
  * Dificultad: Fácil
  */
 
