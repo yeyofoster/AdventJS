@@ -58,3 +58,4 @@
 1. [Reto 1 - ¡Primer regalo repetido!](Reto1/ "Reto 1 - ¡Primer regalo repetido!")
 2. [Reto 2 - Framing names](Reto2/ "Reto 2 - Framing names")
 3. [Reto 3 - Organizando el inventario](Reto3/ "Reto 3 - Organizando el inventario")
+4. [Reto 4 - Decorando el árbol de Navidad](Reto4/ "Reto 4 - Decorando el árbol de Navidad")
