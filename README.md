@@ -55,4 +55,4 @@
 - Crear un hábito diario de resolver problemas, lo que refuerza tus habilidades.
 
 ## Retos
-1. [Reto N - Pending](RetoN/ "Pending")
+1. [Reto 1 - PrepareGifts](Reto1/ "Reto 1 - PrepareGifts")
