@@ -56,4 +56,5 @@
 
 ## Retos
 1. [Reto 1 - ¡Primer regalo repetido!](Reto1/ "Reto 1 - ¡Primer regalo repetido!")
-1. [Reto 2 - Framing names](Reto2/ "Reto 2 - Framing names")
+2. [Reto 2 - Framing names](Reto2/ "Reto 2 - Framing names")
+3. [Reto 3 - Organizando el inventario](Reto3/ "Reto 3 - Organizando el inventario")
