@@ -59,3 +59,4 @@
 2. [Reto 2 - Framing names](Reto2/ "Reto 2 - Framing names")
 3. [Reto 3 - Organizando el inventario](Reto3/ "Reto 3 - Organizando el inventario")
 4. [Reto 4 - Decorando el árbol de Navidad](Reto4/ "Reto 4 - Decorando el árbol de Navidad")
+5. [Reto 5 - Emparejando botas](Reto5/ "Reto 5 - Emparejando botas")
