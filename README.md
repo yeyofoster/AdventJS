@@ -61,3 +61,4 @@
 4. [Reto 4 - Decorando el árbol de Navidad](Reto4/ "Reto 4 - Decorando el árbol de Navidad")
 5. [Reto 5 - Emparejando botas](Reto5/ "Reto 5 - Emparejando botas")
 6. [Reto 6 - ¿Regalo dentro de la caja?](Reto6/ "Reto 6 - ¿Regalo dentro de la caja?")
+7. [Reto 7 - El ataque del Grinch](Reto7/ "Reto 7 - El ataque del Grinch")
